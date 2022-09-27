@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.navbar{
+    background-color: darkmagenta;
+}
+
+
+.custom-font{
+    font-family: 'Lobster';
+    color: #fff
+}
+
+.nav-item a{
+    color: snow;
+}
+
+.nav-item a:hover{
+    color: rgb(38, 180, 10);
+}

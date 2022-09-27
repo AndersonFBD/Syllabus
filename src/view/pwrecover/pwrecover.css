@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.formulario{
+    background-image: url('../../img/background.png');
+    background-color: indigo;
+    max-width: 1400px;
+    height: 100vh;
+}
+
+.recuperar{
+    height: auto;
+    align-items: center;
+    text-align: center;
+    background-color: lightgrey;
+    color: rgb(74, 0, 128);
+    max-width: 360px;
+    border-radius: 15px;
+    margin-top: 6rem;
+}
+
+.btn-recover{
+    background-color: rgb(120, 101, 201);
+    color: #ffffff;
+}
+
+.btn-recover:hover{
+    background-color: rgb(38, 180, 10);
+    color: #fff;
+}

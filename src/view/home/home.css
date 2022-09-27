@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.telamain{
+    background-image: url('../../img/background.png');
+    width: 100%;
+    padding: 1rem;
+    max-height: 100rem;
+    background-color: #4a0082
+}
+
+.painel{
+    width: 100%;
+    background-color: darkgray;
+    display: flexbox;
+    min-height: 30vh;
+    margin: auto, auto;
+    height: auto;
+    border-radius: 10px;
+}
+
+.barra{
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius:10px ;
+}
+
+.texto-main{
+    font-family: 'Lobster';
+    color: #4b0082;
+}

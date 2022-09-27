@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+ 
+
+.tela{
+    background-image: url('../../img/background.png');
+    width: 100%;
+    padding: 15%;
+    margin: auto;
+    height: 100vh;
+    background-color: rgb(74, 0, 128);
+    color:#7fffd4;
+}
+
+.titulo-fonte{
+    font-family: 'Lobster';
+}
+
+.btn-logar{
+    background-color: rgb(120, 101, 201);
+    color: #ffffff;
+}
+
+.btn-logar:hover{
+    background-color: rgb(38, 180, 10);
+    color: #fff;
+}
+
+.cor-link a {
+    text-decoration: none;
+    color:#7fffd4;
+    transition: .4s ease-out;
+}
+
+.cor-link a:hover {
+    color: rgb(38, 180, 10);
+}

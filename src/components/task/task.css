@@ -1,0 +1,15 @@
+.cardtask{
+    background-color: lightblue;
+    color: indigo;
+    border-radius: 10px;
+}
+
+.card{
+    max-width: 14rem;
+    max-height: 18rem;
+}
+
+.botao{
+    position: flex;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.formulario{
+    background-image: url('../../img/background.png');
+    background-color: indigo;
+    max-width: 1400px;
+    height: 100vh;
+}
+
+.fonte-custom{
+    font-family: 'Lobster';
+    color: lime;
+}
+
+.alinhar{
+    margin-top: 10rem;
+}
+
+.btn-cadastrar{
+    background-color: rgb(120, 101, 201);
+    color: #fff;
+}
+
+.btn-cadastrar:hover{
+    background-color: rgb(38, 180, 10);
+}
